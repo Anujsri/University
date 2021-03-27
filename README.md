@@ -18,9 +18,9 @@
     5. Open `http://localhost:8000/admin/` to perform CRED actions
  
  ## Models Used
-    1. Course
-    2. Exam
-    3. Enrollments
-    4. Instructor
-    5. Score
-    6. Student 
+    1. Course - Available courses
+    2. Exam - An instructor can add exam
+    3. Enrollments - Student can enroll themself in multiple courses
+    4. Instructor - List of Instructor
+    5. Score - Instructor can add a score of students which a student got in the exam
+    6. Student - List of Student
